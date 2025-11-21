@@ -2,7 +2,7 @@
 * [Metro](metro)
     * [Metro North West & Bankstown Line](m1)
 <details>
-* <summary>[Train](train)</summary>
+<summary>[Train](train)</summary>
     * [North Shore & Western Line](t1)
     * [Leppington & Inner West Line](t2)
     * [Liverpool & Inner West Line Line](t3)
