@@ -1,8 +1,7 @@
 * [Home](/)
 * [Metro](metro)
     * [Metro North West & Bankstown Line](m1)
-<details>
-<summary>[Train](train)</summary>
+* [Train](train)
     * [North Shore & Western Line](t1)
     * [Leppington & Inner West Line](t2)
     * [Liverpool & Inner West Line Line](t3)
@@ -21,7 +20,6 @@
     * [North Western Region](nrw)
     * [Southern Region](sth)
     * [Western Region](wst)
-</details>
 * [Bus](bus)
     * [B-Line](b1)
 * [Ferry](ferry)
